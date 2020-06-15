@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="gitris.gif" width="300">
+  <img src="http://leereilly.net/leereilly/gittris.gif" width="300">
 </div>
