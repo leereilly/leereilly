@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/121322/108665450-d0f52380-7489-11eb-832b-09b614c59f2a.gif">
-  <p>Generate a Skyline view of your GitHub contribtions at <a href="http://skyline.github.com">http://skyline.github.com</a></p>
+  <p>Generate a Skyline view of your GitHub contributions at <a href="http://skyline.github.com">http://skyline.github.com</a></p>
 </div>
 <br>
 
