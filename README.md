@@ -4,8 +4,8 @@
 </div>
 <br>
 
+<strong>@leereilly has 1337 contributions this year:</strong>
 <p align="center">
-<strong>1337 contributions this year:</strong>
   <img src="http://leereilly.net/leereilly/contributions.png" width="75%"><br>
   <img src="http://leereilly.net/leereilly/gitris.gif" width="300">
   <img src="http://hits.dwyl.com/leereilly/leereilly.svg" width="0">
