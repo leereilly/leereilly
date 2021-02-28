@@ -3,7 +3,7 @@ name: generate animation
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
