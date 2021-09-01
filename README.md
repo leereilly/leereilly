@@ -17,4 +17,9 @@
 - [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
 - [Build a tiny game for JS13K with Kontra.js](https://dev.to/github/build-a-tiny-game-for-js13k-with-kontra-js-8pb)
 - [Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/)
+- [12 open source projects for #StarWarsDay](https://dev.to/leereilly/may-the-fourth-be-with-you-4hje)
+- [Six Secret Easter Eggs in GitHub](https://dev.to/github/six-secret-easter-eggs-in-github-2j17)
+- [Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/)
+- [GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/)
+- [13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/)
 <!-- BLOG-POST-LIST:END -->
