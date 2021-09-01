@@ -12,4 +12,9 @@
 
 **Recent blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
+- [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
+- [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
+- [Build a tiny game for JS13K with Kontra.js](https://dev.to/github/build-a-tiny-game-for-js13k-with-kontra-js-8pb)
+- [Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/)
 <!-- BLOG-POST-LIST:END -->
