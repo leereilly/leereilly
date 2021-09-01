@@ -9,3 +9,7 @@
   <a href="https://twitter.com/github/status/1374087749234528260"><img width="30%" src="https://github.blog/wp-content/uploads/2021/03/capture-the-flag-banner.gif"></a>  
   <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
 </div>
+
+# Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
