@@ -10,6 +10,6 @@
   <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
 </div>
 
-# Recent blog posts
+**Recent blog posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
