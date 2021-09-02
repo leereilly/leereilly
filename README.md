@@ -18,6 +18,8 @@
   </tr>
 </table>
 
+<p>👋🏻 I'm Lee - a <strike>software engineer</strike> program manager on GitHub's Developer Relations team working on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
+
 <strong>Recent blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
