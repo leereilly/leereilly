@@ -3,7 +3,7 @@
     <td>
     <center>
       <div align="center">
-        <p><strong>Recent ships</strong></p>
+        <p><strong>Favorite ships</strong></p>
         <a href="https://twitter.com/github/status/1384130507898720262"><img width="300" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a>
         <p><sup><strong>Video:</strong> Open source on Mars</sup></p>
         <a href="https://twitter.com/search?q=skyline.github.com&src=typed_query"><img width="300" src="https://user-images.githubusercontent.com/121322/108665450-d0f52380-7489-11eb-832b-09b614c59f2a.gif"></a>
@@ -12,6 +12,8 @@
         <p><sup><strong>Video:</strong> GitHub CLI launch</sup></p>
         <a href="https://twitter.com/github/status/1374087749234528260"><img width="300" src="https://github.blog/wp-content/uploads/2021/03/capture-the-flag-banner.gif"></a>  
         <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
+        <a href="https://twitter.com/github/status/925824052274647040"><img width="300" src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"></a>  
+        <p><sup><strong>Hackathon organization + branding:</strong> Game Off</sup></p>
       </div>
     </center>
     </td>
