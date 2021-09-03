@@ -14,6 +14,7 @@
         <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
         <a href="https://twitter.com/github/status/925824052274647040"><img width="300" src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"></a>  
         <p><sup><strong>Hackathon organization + branding:</strong> Game Off</sup></p>
+        <img src="gitris.gif" width="300">
       </div>
     </center>
     </td>
