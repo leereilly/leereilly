@@ -39,7 +39,7 @@
 - [GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/)
 - [13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/)
 <!-- BLOG-POST-LIST:END -->
-<sup><strong>Fun fact:</strong> My job has nothing to do with videos game or game development. Game-related stuff above is more of a hobby.</sup>
+<sup><strong>/*</strong> My job has nothing to do with videos game or game development. Game-related stuff above is more of a hobby.</sup>
 
 <strong>Recent publications</strong>
 
