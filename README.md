@@ -39,3 +39,9 @@
 - [GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/)
 - [13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/)
 <!-- BLOG-POST-LIST:END -->
+
+<strong>Recent publications</strong>
+
+- 🦠 [Los Alamos hepatitis C virus sequence and human immunology databases...](https://pubmed.ncbi.nlm.nih.gov/17626595/)
+- 🧬 [The complete genome sequence of Bacillus thuringiensis Al Hakam](https://pubmed.ncbi.nlm.nih.gov/17337577/)
+- 🔬 [Pathogenomic sequence analysis of Bacillus cereus and Bacillus thuringiensis...](https://pubmed.ncbi.nlm.nih.gov/16621833/)
