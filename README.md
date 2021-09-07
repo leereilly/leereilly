@@ -12,6 +12,8 @@
         <p><sup><strong>Video:</strong> GitHub CLI launch</sup></p>
         <a href="https://twitter.com/github/status/1374087749234528260"><img width="300" src="https://github.blog/wp-content/uploads/2021/03/capture-the-flag-banner.gif"></a>  
         <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
+        <a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="300" src="https://user-images.githubusercontent.com/121322/132391362-2cc0620f-93ca-4a05-a48c-948c54950cba.png"></a>  
+        <p><sup><strong>Co-organizer:</strong> Hacktoberfest</sup></p>
         <a href="https://twitter.com/github/status/925824052274647040"><img width="300" src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"></a>  
         <p><sup><strong>Hackathon organization + branding:</strong> Game Off</sup></p>
         <img src="gitris.gif" width="300">
