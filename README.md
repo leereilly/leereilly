@@ -25,6 +25,9 @@
 
 <p>👋🏻 I'm Lee - a <strike>software engineer</strike> program manager on GitHub's Developer Relations team working on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
 
+<div align="center">
+  <a href="https://dev.to/leereilly/"><img src="dev.svg" width="20"></a> <a href="https://twitter.com/leereilly"><img src="twitter.svg" width="20"></a> <a href="https://www.facebook.com/lee337reilly"><img src="facebook.svg" width="20"></a> <a href="https://www.linkedin.com/in/lreilly/"><img src="linkedin.svg" width="20"></a> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="youtube.svg" width="20"></a> <a href="https://www.twitch.tv/leereilly"><img src="twitch.svg" width="20"></a></div>
+
 <strong>Recent blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
