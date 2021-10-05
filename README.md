@@ -33,6 +33,7 @@
 <strong>Recent blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
+- [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
 - [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
 - [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
 - [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
@@ -42,7 +43,6 @@
 - [Six Secret Easter Eggs in GitHub](https://dev.to/github/six-secret-easter-eggs-in-github-2j17)
 - [Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/)
 - [GitHub Game Off 2020 theme announcement](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/)
-- [13 ghoulish games to play, hack and slash this weekend 👻](https://github.blog/2020-10-30-13-ghoulish-games-to-play-hack-and-slash-this-weekend/)
 <!-- BLOG-POST-LIST:END -->
 <sup><strong>*</strong> My job has nothing to do with video games or game development. Game-related stuff above is a hobby.</sup>
 
