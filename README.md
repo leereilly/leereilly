@@ -14,7 +14,7 @@
         <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
         <a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="200" src="https://user-images.githubusercontent.com/121322/132391362-2cc0620f-93ca-4a05-a48c-948c54950cba.png"></a>  
         <p><sup><strong>Co-organizer:</strong> Hacktoberfest</sup></p>
-        <a href="https://twitter.com/github/status/925824052274647040"><img width="200" src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif"></a>  
+        <a href="https://twitter.com/github/status/925824052274647040"><img width="200" src="https://user-images.githubusercontent.com/121322/138371085-04698965-729e-4d37-8399-042ae3baff2c.gif"></a>  
         <p><sup><strong>Hackathon organization + branding:</strong> Game Off</sup></p>
         <a href="https://www.youtube.com/watch?v=L8d0G7Duz9A"><img width="200" src="epic-octotales.gif"></a>  
         <p><sup><strong>Video:</strong> Epic Games / Unreal Engine</sup></p>
