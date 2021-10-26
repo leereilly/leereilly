@@ -33,6 +33,7 @@
 <strong>Recent blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
+- [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/)
 - [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
 - [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
 - [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
@@ -42,7 +43,6 @@
 - [Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/)
 - [12 open source projects for #StarWarsDay](https://dev.to/leereilly/may-the-fourth-be-with-you-4hje)
 - [Six Secret Easter Eggs in GitHub](https://dev.to/github/six-secret-easter-eggs-in-github-2j17)
-- [Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/)
 <!-- BLOG-POST-LIST:END -->
 <sup><strong>*</strong> My job has nothing to do with video games or game development. Game-related stuff above is a hobby.</sup>
 
