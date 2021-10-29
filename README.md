@@ -33,7 +33,7 @@
 <strong>Recent blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
-- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-ten-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
+- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
 - [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/)
 - [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
 - [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
