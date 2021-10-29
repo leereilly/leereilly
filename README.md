@@ -33,6 +33,7 @@
 <strong>Recent blog posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
+- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-ten-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
 - [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/)
 - [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
 - [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
@@ -42,7 +43,6 @@
 - [Build a tiny game for JS13K with Kontra.js](https://dev.to/github/build-a-tiny-game-for-js13k-with-kontra-js-8pb)
 - [Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/)
 - [12 open source projects for #StarWarsDay](https://dev.to/leereilly/may-the-fourth-be-with-you-4hje)
-- [Six Secret Easter Eggs in GitHub](https://dev.to/github/six-secret-easter-eggs-in-github-2j17)
 <!-- BLOG-POST-LIST:END -->
 <sup><strong>*</strong> My job has nothing to do with video games or game development. Game-related stuff above is a hobby.</sup>
 
