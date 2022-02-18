@@ -16,7 +16,7 @@
     <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590945-71e523eb-0b40-4781-88b6-6cc0b4195763.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154596571-b9365bfa-6ab3-4c61-97e7-3437015b278a.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154597715-da89bb07-2a80-4974-8ded-7e1083be2ee2.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
     <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
   </tr>
 </table>
