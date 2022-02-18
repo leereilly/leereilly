@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
+          feed-url: hhttps://github.blog/author/leereilly/feed/
           readme-section: feed
