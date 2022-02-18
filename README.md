@@ -25,7 +25,7 @@
 
 #### Recent GitHub Blog posts:
 
-My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games...
+My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
 * [Top-rated entries from Game Off 2021](https:&#x2F;&#x2F;github.blog&#x2F;2022-01-13-top-entries-from-game-off-2021&#x2F;)
