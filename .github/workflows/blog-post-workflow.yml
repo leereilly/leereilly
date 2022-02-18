@@ -1,10 +1,10 @@
 name: Update this repo's README
 
 on:
-  # push:
-  schedule:
+  push:
+  # schedule:
     # Once a day at 8 AM
-    - cron: 0 8 * * *
+    #- cron: 0 8 * * *
 
 jobs:
   update:
@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: hhttps://github.blog/author/leereilly/feed/
+          feed-url: https://github.blog/author/leereilly/feed/
           readme-section: feed
