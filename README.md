@@ -39,6 +39,6 @@ My job has literally nothing to do with video games or game development. That sa
 
 Well, not exactly "recent", but these are from my former life working in bioinformatics.
 
-- 🦠 [Los Alamos hepatitis C virus sequence and human immunology databases...](https://pubmed.ncbi.nlm.nih.gov/17626595/)
+- 🦠 [Los Alamos hepatitis C virus sequence and human immunology databases: an expanding resource for antiviral research](https://pubmed.ncbi.nlm.nih.gov/17626595/)
 - 🧬 [The complete genome sequence of Bacillus thuringiensis Al Hakam](https://pubmed.ncbi.nlm.nih.gov/17337577/)
-- 🔬 [Pathogenomic sequence analysis of Bacillus cereus and Bacillus thuringiensis...](https://pubmed.ncbi.nlm.nih.gov/16621833/)
+- 🔬 [Pathogenomic sequence analysis of Bacillus cereus and Bacillus thuringiensis isolates closely related to Bacillus anthracis](https://pubmed.ncbi.nlm.nih.gov/16621833/) (try saying <em>that</em> ten times fast)
