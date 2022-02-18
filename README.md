@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games...
 
 <!--START_SECTION:feed-->
-* [Remix first impressions](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;remix-first-impressions&#x2F;)
-* [On &quot;Spike work&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-spike-work&#x2F;)
-* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
+* [Top-rated entries from Game Off 2021](https:&#x2F;&#x2F;github.blog&#x2F;2022-01-13-top-entries-from-game-off-2021&#x2F;)
+* [Game Off 2021 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;2021-11-01-game-off-2021-theme-announcement&#x2F;)
+* [13 short and scary games plus source to play (or hack) this Halloween 🎃](https:&#x2F;&#x2F;github.blog&#x2F;2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween&#x2F;)
+* [A peek inside some of the top games from Ludum Dare 49](https:&#x2F;&#x2F;github.blog&#x2F;2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49&#x2F;)
+* [💾 Save the date for GitHub Game Off 2021](https:&#x2F;&#x2F;github.blog&#x2F;2021-10-15-save-the-date-for-github-game-off-2021&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
