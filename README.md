@@ -1,52 +1,39 @@
-<table align="right" >
+<p>👋🏻 I'm Lee - a <strike>software engineer</strike> manager and <em>writer</em> of programs on GitHub's Developer Relations team. I work on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
+
+#### Favorite ships:
+
+<table>
   <tr>
-    <td>
-    <center>
-      <div align="center">
-        <p><strong>Favorite ships</strong></p>
-        <a href="https://twitter.com/github/status/1384130507898720262"><img width="200" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a>
-        <p><sup><strong>Video:</strong> Open source on Mars</sup></p>
-        <a href="https://twitter.com/search?q=skyline.github.com&src=typed_query"><img width="200" src="https://user-images.githubusercontent.com/121322/108665450-d0f52380-7489-11eb-832b-09b614c59f2a.gif"></a>
-        <p><sup><strong>Website:</strong> View your GitHub Skyline</sup></p>  
-        <a href="https://twitter.com/github/status/1306586113293729795"><img width="200" src="https://user-images.githubusercontent.com/121322/131424875-fc90b70b-7f4a-41b5-aca7-7165fc17ea9a.gif"></a>
-        <p><sup><strong>Video:</strong> GitHub CLI launch</sup></p>
-        <a href="https://twitter.com/github/status/1374087749234528260"><img width="200" src="https://github.blog/wp-content/uploads/2021/03/capture-the-flag-banner.gif"></a>  
-        <p><sup><strong>Branding:</strong> GitHub CTF</sup></p>
-        <a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="200" src="https://user-images.githubusercontent.com/121322/132391362-2cc0620f-93ca-4a05-a48c-948c54950cba.png"></a>  
-        <p><sup><strong>Co-organizer:</strong> Hacktoberfest</sup></p>
-        <a href="https://twitter.com/github/status/925824052274647040"><img width="200" src="https://user-images.githubusercontent.com/121322/138371085-04698965-729e-4d37-8399-042ae3baff2c.gif"></a>  
-        <p><sup><strong>Hackathon organization + branding:</strong> Game Off</sup></p>
-        <a href="https://www.youtube.com/watch?v=L8d0G7Duz9A"><img width="200" src="epic-octotales.gif"></a>  
-        <p><sup><strong>Video:</strong> Epic Games / Unreal Engine</sup></p>
-        <img src="gitris.gif" width="200">
-      </div>
-    </center>
-    </td>
+    <td width="50%"><a href="https://twitter.com/search?q=skyline.github.com&src=typed_query"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592158-63bb7160-daa7-49ab-8fb7-a21092f3e1f1.gif"></a><br><sup><strong>Website:</strong> GitHub Skyline</sup>
+    <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590949-3ce5dd7e-2a51-46da-973d-3375c91d8d3c.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>
+    <td width="50%"><a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="100%" src="https://user-images.githubusercontent.com/121322/154591402-5c6e91c4-1d73-472b-b24d-ddae5220151e.png"></a><br><sup><strong>Hackathon:</strong> Hacktoberfest co-organizer</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590945-71e523eb-0b40-4781-88b6-6cc0b4195763.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154596571-b9365bfa-6ab3-4c61-97e7-3437015b278a.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
   </tr>
 </table>
 
-<p>👋🏻 I'm Lee - a <strike>software engineer</strike> program manager on GitHub's Developer Relations team working on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
+#
 
-<div align="center">
-  <a href="https://dev.to/leereilly/"><img src="dev.svg" width="20"></a> <a href="https://twitter.com/leereilly"><img src="twitter.svg" width="20"></a> <a href="https://www.facebook.com/lee337reilly"><img src="facebook.svg" width="20"></a> <a href="https://www.linkedin.com/in/lreilly/"><img src="linkedin.svg" width="20"></a> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="youtube.svg" width="20"></a> <a href="https://www.twitch.tv/leereilly"><img src="twitch.svg" width="20"></a></div>
+#### Recent GitHub Blog posts:
 
-<strong>Recent blog posts</strong>
+My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games...
 
-<!-- BLOG-POST-LIST:START -->
-- [Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/)
-- [Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/)
-- [13 short and scary games plus source to play &lpar;or hack&rpar; this Halloween 🎃](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
-- [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/)
-- [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
-- [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
-- [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
-- [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
-- [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
-- [Build a tiny game for JS13K with Kontra.js](https://dev.to/github/build-a-tiny-game-for-js13k-with-kontra-js-8pb)
-<!-- BLOG-POST-LIST:END -->
-<sup><strong>*</strong> My job has nothing to do with video games or game development. Game-related stuff above is a hobby.</sup>
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
 
-<strong>Recent publications</strong>
+#### Recent publications:
+
+Well, not exactly "recent", but these are from my former life working in bioinformatics.
 
 - 🦠 [Los Alamos hepatitis C virus sequence and human immunology databases...](https://pubmed.ncbi.nlm.nih.gov/17626595/)
 - 🧬 [The complete genome sequence of Bacillus thuringiensis Al Hakam](https://pubmed.ncbi.nlm.nih.gov/17337577/)
