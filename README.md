@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [20 of our favorite games + source code from Ludum Dare 50](https:&#x2F;&#x2F;github.blog&#x2F;2022-05-05-ludum-dare-50&#x2F;)
 * [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-23-zx-spectrum-40-year-anniversary&#x2F;)
 * [Top-rated entries from Game Off 2021](https:&#x2F;&#x2F;github.blog&#x2F;2022-01-13-top-entries-from-game-off-2021&#x2F;)
 * [Game Off 2021 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;2021-11-01-game-off-2021-theme-announcement&#x2F;)
 * [13 short and scary games plus source to play (or hack) this Halloween 🎃](https:&#x2F;&#x2F;github.blog&#x2F;2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween&#x2F;)
-* [A peek inside some of the top games from Ludum Dare 49](https:&#x2F;&#x2F;github.blog&#x2F;2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
