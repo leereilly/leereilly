@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [Build a game this November with Game Off 2022](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-21-build-a-game-this-november-with-game-off-2022&#x2F;)
 * [js13kGames 2022 winners 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-06-js13k-2022-winners&#x2F;)
 * [The full lineup for Git Merge 2022 revealed](https:&#x2F;&#x2F;github.blog&#x2F;2022-08-23-the-full-lineup-for-git-merge-2022-revealed&#x2F;)
 * [Git Merge 2022](https:&#x2F;&#x2F;github.blog&#x2F;2022-06-15-git-merge-2022&#x2F;)
 * [20 of our favorite games + source code from Ludum Dare 50](https:&#x2F;&#x2F;github.blog&#x2F;2022-05-05-ludum-dare-50&#x2F;)
-* [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https:&#x2F;&#x2F;github.blog&#x2F;2022-04-23-zx-spectrum-40-year-anniversary&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
