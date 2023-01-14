@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [Game Off 2022 winners 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2023-01-13-game-off-2022-winners&#x2F;)
 * [Game Off 2022 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;2022-11-01-game-off-2022-theme-announcement&#x2F;)
 * [13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween&#x2F;)
 * [Build a game this November with Game Off 2022](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-21-build-a-game-this-november-with-game-off-2022&#x2F;)
 * [Git Merge 2022 – that’s a wrap! 🎬](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-21-git-merge-2022-mission-report&#x2F;)
-* [JS13K 2022 winners 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2022-10-06-js13k-2022-winners&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
