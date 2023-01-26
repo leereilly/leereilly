@@ -47,6 +47,6 @@ Well, not exactly "recent", but these are from my former life working in bioinfo
 
 #### What I'm listening to
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=leephilipreilly&unique=)](https://spotify-recently-played-readme.vercel.app/api?user=leephilipreilly&width=1000&count=10)
+![](https://spotify-recently-played-readme.vercel.app/api?user=leephilipreilly&width=1000&count=10)
 
 <sup>Above powered by [@JeffreyCA's potify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme). Any embarassing tracks on there are because of my kids. Honestly.
