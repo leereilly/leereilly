@@ -44,3 +44,9 @@ Well, not exactly "recent", but these are from my former life working in bioinfo
 - 🔬 [Pathogenomic sequence analysis of Bacillus cereus and Bacillus thuringiensis isolates closely related to Bacillus anthracis](https://pubmed.ncbi.nlm.nih.gov/16621833/)*
 
 <sup>* try saying <em>that</em> ten times fast!</sup>
+
+#### What I'm listening to
+
+![](https://spotify-recently-played-readme.vercel.app/api?user=leephilipreilly&unique=)](https://spotify-recently-played-readme.vercel.app/api?user=leephilipreilly&width=1000&count=10)
+
+<sup>Above powered by [@JeffreyCA's potify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme). Any embarassing tracks on there are because of my kids. Honestly.
