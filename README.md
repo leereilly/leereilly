@@ -50,3 +50,13 @@ Well, not exactly "recent", but these are from my former life working in bioinfo
 ![](https://spotify-recently-played-readme.vercel.app/api?user=leephilipreilly&width=1000&count=10)
 
 <sup>Above powered by [@JeffreyCA's potify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme). Any embarassing tracks on there are because of my kids. Honestly.
+  
+  | HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+|:----:|:-----:|:------:|:---------:|:------:|:-------:|
+| 2pm  | SPA   | SPA    | SPA       | SPA    | SPA     |
+| 3pm  | IC    | IC     | IC        | IC     | IC      |
+| 4pm  | LDI   | LDI    | LDI       | LDI    | LDI     |
+| 5pm  | SPB   | SPB    | SPB       | SPB    | SPB     |
+  
+  
+  
