@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [Game Bytes · April 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-04-07-game-bytes-april-2023&#x2F;)
 * [Godot 4.0 Release Party 🎉](https:&#x2F;&#x2F;github.blog&#x2F;2023-03-16-godot-4-0-release-party&#x2F;)
 * [See you at SCaLE! 🐧](https:&#x2F;&#x2F;github.blog&#x2F;2023-03-03-see-you-at-scale&#x2F;)
 * [Ludum Dare 52 staff picks 🕹](https:&#x2F;&#x2F;github.blog&#x2F;2023-02-03-ludum-dare-52-staff-picks&#x2F;)
 * [Game Off 2022 winners 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2023-01-13-game-off-2022-winners&#x2F;)
-* [Game Off 2022 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;2022-11-01-game-off-2022-theme-announcement&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
