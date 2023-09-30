@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [Game Bytes · September 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-09-29-game-bytes&#x2F;)
 * [Game Bytes · August 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-08-25-game-bytes-august-2023&#x2F;)
 * [Game Bytes · July 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-07-25-game-bytes-july-2023&#x2F;)
 * [Game Bytes · June 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-06-30-game-bytes-june-2023&#x2F;)
 * [Game Bytes · May 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-05-10-game-bytes-may-2023&#x2F;)
-* [Game Bytes · April 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-04-07-game-bytes-april-2023&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
