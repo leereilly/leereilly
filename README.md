@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [Game Off 2023 results 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2024-01-09-game-off-2023-results&#x2F;)
 * [Celebrating the GitHub Awards 2023 recipients 🎉](https:&#x2F;&#x2F;github.blog&#x2F;2023-11-09-celebrating-the-github-awards-2023-recipients&#x2F;)
 * [GitHub Game Off 2023 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;2023-11-01-github-game-off-2023-theme-announcement&#x2F;)
 * [Hackable Halloween games MMXXIII](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-30-hackable-halloween-games-mmxxiii&#x2F;)
 * [js13kGames 2023 winners 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2023-10-13-js13k-2023-winners&#x2F;)
-* [Game Bytes · September 2023](https:&#x2F;&#x2F;github.blog&#x2F;2023-09-29-game-bytes&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
