@@ -28,11 +28,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
-* [Game Bytes · March 2024](https:&#x2F;&#x2F;github.blog&#x2F;2024-03-27-game-bytes-march-2024&#x2F;)
-* [Game Bytes · February 2024](https:&#x2F;&#x2F;github.blog&#x2F;2024-02-29-game-bytes-february-2024&#x2F;)
-* [Game Bytes · January 2024](https:&#x2F;&#x2F;github.blog&#x2F;2024-01-18-game-bytes-january-2024&#x2F;)
-* [Game Off 2023 results 🏆](https:&#x2F;&#x2F;github.blog&#x2F;2024-01-09-game-off-2023-results&#x2F;)
-* [Celebrating the GitHub Awards 2023 recipients 🎉](https:&#x2F;&#x2F;github.blog&#x2F;2023-11-09-celebrating-the-github-awards-2023-recipients&#x2F;)
+* [Game Bytes · March 2024](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;game-bytes-march-2024&#x2F;)
+* [Game Bytes · February 2024](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;game-bytes-february-2024&#x2F;)
+* [Game Bytes · January 2024](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;game-bytes-january-2024&#x2F;)
+* [Game Off 2023 results 🏆](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;game-off-2023-results&#x2F;)
+* [Celebrating the GitHub Awards 2023 recipients 🎉](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;company-news&#x2F;celebrating-the-github-awards-2023-recipients&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
