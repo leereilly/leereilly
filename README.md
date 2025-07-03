@@ -1,5 +1,26 @@
 <p>👋🏻 I'm Lee - a <strike>software engineer</strike> manager and <em>writer</em> of programs on GitHub's Developer Relations team. I work on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
 
+## 🎭 Git Hook Laugh Track System
+
+Want to add some humor to your development workflow? This repository includes a fun Git hook system that plays sitcom laugh tracks when you make commits!
+
+### Quick Setup
+
+```bash
+# Clone this repo or download the git-hooks folder
+cd /path/to/your/git/repository
+/path/to/git-hooks/install.sh
+```
+
+### Features
+- 🎵 Cross-platform support (Windows, macOS, Linux)
+- 🎲 Random laugh track selection
+- ⚙️ Easy configuration and disable options
+- 🔄 Graceful fallback for systems without audio
+- 📁 Support for local and online audio files
+
+[📖 Full documentation and setup guide →](git-hooks/README.md)
+
 #### Favorite ships:
 
 <table>

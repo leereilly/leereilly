@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "volume": 50,
+  "description": "Configuration for Git Hook Laugh Track System",
+  "settings": {
+    "enabled": "Set to false to disable laugh tracks",
+    "volume": "Volume level (0-100) - currently used for documentation only"
+  }
+}

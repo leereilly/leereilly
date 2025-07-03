@@ -1,0 +1,202 @@
+#!/bin/bash
+
+# Git Hook: Post-Commit Laugh Track Player
+# Plays random sitcom laugh tracks after successful commits
+# Cross-platform compatible (Windows, macOS, Linux)
+
+# Configuration
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+CONFIG_FILE="$SCRIPT_DIR/config.json"
+AUDIO_DIR="$SCRIPT_DIR/audio"
+
+# Default configuration
+DEFAULT_ENABLED=true
+DEFAULT_VOLUME=50
+
+# Load configuration
+load_config() {
+    if [[ -f "$CONFIG_FILE" ]]; then
+        # Use python to parse JSON if available, otherwise use defaults
+        if command -v python3 >/dev/null 2>&1; then
+            ENABLED=$(python3 -c "import json; config=json.load(open('$CONFIG_FILE')); print(config.get('enabled', '$DEFAULT_ENABLED'))" 2>/dev/null || echo "$DEFAULT_ENABLED")
+            VOLUME=$(python3 -c "import json; config=json.load(open('$CONFIG_FILE')); print(config.get('volume', $DEFAULT_VOLUME))" 2>/dev/null || echo "$DEFAULT_VOLUME")
+        else
+            ENABLED=$DEFAULT_ENABLED
+            VOLUME=$DEFAULT_VOLUME
+        fi
+    else
+        ENABLED=$DEFAULT_ENABLED
+        VOLUME=$DEFAULT_VOLUME
+    fi
+}
+
+# Detect operating system
+detect_os() {
+    case "$(uname -s)" in
+        Darwin)
+            OS="macos"
+            AUDIO_PLAYER="afplay"
+            ;;
+        Linux)
+            OS="linux"
+            # Try different audio players in order of preference
+            if command -v paplay >/dev/null 2>&1; then
+                AUDIO_PLAYER="paplay"
+            elif command -v aplay >/dev/null 2>&1; then
+                AUDIO_PLAYER="aplay"
+            elif command -v mpg123 >/dev/null 2>&1; then
+                AUDIO_PLAYER="mpg123"
+            elif command -v play >/dev/null 2>&1; then
+                AUDIO_PLAYER="play"
+            else
+                AUDIO_PLAYER=""
+            fi
+            ;;
+        CYGWIN*|MINGW*|MSYS*)
+            OS="windows"
+            # Use PowerShell for Windows audio playback
+            AUDIO_PLAYER="powershell"
+            ;;
+        *)
+            OS="unknown"
+            AUDIO_PLAYER=""
+            ;;
+    esac
+}
+
+# Get random laugh track
+get_random_laugh_track() {
+    # First try local audio files
+    if [[ -d "$AUDIO_DIR" ]]; then
+        local audio_files=()
+        for ext in mp3 wav ogg m4a; do
+            for file in "$AUDIO_DIR"/*."$ext"; do
+                if [[ -f "$file" ]]; then
+                    audio_files+=("$file")
+                fi
+            done
+        done
+        
+        if [[ ${#audio_files[@]} -gt 0 ]]; then
+            local random_index=$((RANDOM % ${#audio_files[@]}))
+            echo "${audio_files[$random_index]}"
+            return 0
+        fi
+    fi
+    
+    # Fallback to online laugh tracks (URLs)
+    local laugh_tracks=(
+        "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav"
+        "https://www.pacdv.com/sounds/applause_sounds/applause-8.wav"
+        "https://www.pacdv.com/sounds/applause_sounds/applause-3.wav"
+    )
+    
+    local random_index=$((RANDOM % ${#laugh_tracks[@]}))
+    echo "${laugh_tracks[$random_index]}"
+}
+
+# Play audio file
+play_audio() {
+    local audio_file="$1"
+    
+    case "$OS" in
+        macos)
+            if command -v "$AUDIO_PLAYER" >/dev/null 2>&1; then
+                "$AUDIO_PLAYER" "$audio_file" >/dev/null 2>&1 &
+            fi
+            ;;
+        linux)
+            case "$AUDIO_PLAYER" in
+                paplay)
+                    paplay "$audio_file" >/dev/null 2>&1 &
+                    ;;
+                aplay)
+                    aplay "$audio_file" >/dev/null 2>&1 &
+                    ;;
+                mpg123)
+                    mpg123 -q "$audio_file" >/dev/null 2>&1 &
+                    ;;
+                play)
+                    play "$audio_file" >/dev/null 2>&1 &
+                    ;;
+            esac
+            ;;
+        windows)
+            # Use PowerShell to play audio on Windows
+            powershell -c "(New-Object Media.SoundPlayer '$audio_file').PlaySync();" >/dev/null 2>&1 &
+            ;;
+    esac
+}
+
+# Download audio file if URL
+download_and_play() {
+    local audio_source="$1"
+    
+    if [[ "$audio_source" =~ ^https?:// ]]; then
+        # It's a URL, try to download and play
+        local temp_file="/tmp/laugh_track_$$.wav"
+        
+        if command -v curl >/dev/null 2>&1; then
+            curl -s -L "$audio_source" -o "$temp_file" >/dev/null 2>&1
+        elif command -v wget >/dev/null 2>&1; then
+            wget -q "$audio_source" -O "$temp_file" >/dev/null 2>&1
+        else
+            # No download tool available
+            return 1
+        fi
+        
+        if [[ -f "$temp_file" ]]; then
+            play_audio "$temp_file"
+            # Clean up temp file after a delay
+            (sleep 10 && rm -f "$temp_file") &
+        fi
+    else
+        # It's a local file
+        if [[ -f "$audio_source" ]]; then
+            play_audio "$audio_source"
+        fi
+    fi
+}
+
+# Visual feedback when audio isn't available
+show_visual_feedback() {
+    local messages=(
+        "😂 *Ba dum tss* 🥁"
+        "👏 *Audience applause* 👏"
+        "😄 *Sitcom laughter* 📺"
+        "🎭 *Comedy gold!* ✨"
+        "😆 *Laugh track plays* 🎵"
+        "🤣 *Studio audience cheers* 📢"
+    )
+    
+    local random_index=$((RANDOM % ${#messages[@]}))
+    echo "${messages[$random_index]}"
+}
+
+# Main execution
+main() {
+    # Load configuration
+    load_config
+    
+    # Check if feature is enabled
+    if [[ "$ENABLED" != "true" ]]; then
+        exit 0
+    fi
+    
+    # Detect operating system and audio capabilities
+    detect_os
+    
+    # Get random laugh track
+    laugh_track=$(get_random_laugh_track)
+    
+    if [[ -n "$laugh_track" ]] && [[ -n "$AUDIO_PLAYER" ]]; then
+        # Play the laugh track (non-blocking)
+        download_and_play "$laugh_track"
+    else
+        # No audio player available, show visual feedback instead
+        show_visual_feedback
+    fi
+}
+
+# Run main function
+main "$@"

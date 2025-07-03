@@ -1,0 +1,10 @@
+# Sample Audio Placeholder
+# 
+# This is a placeholder file to demonstrate the audio system.
+# In a real setup, you would place actual audio files here:
+# - sitcom-laugh-1.wav
+# - applause-short.mp3
+# - chuckle.wav
+# 
+# The system supports WAV, MP3, OGG, and M4A formats.
+# For now, it will fall back to online audio sources.
