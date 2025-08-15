@@ -44,3 +44,15 @@ Well, not exactly "recent", but these are from my former life working in bioinfo
 - 🔬 [Pathogenomic sequence analysis of Bacillus cereus and Bacillus thuringiensis isolates closely related to Bacillus anthracis](https://pubmed.ncbi.nlm.nih.gov/16621833/)*
 
 <sup>* try saying <em>that</em> ten times fast!</sup>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
