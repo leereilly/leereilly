@@ -8,8 +8,8 @@
     <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="images/cli.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://twitter.com/search?q=skyline.github.com&src=typed_query"><img width="100%" src="images/copilot.gif"></a><br><sup><strong>Product launch:</strong> GitHub Copilot</sup>
-    <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="images/git-merge.png"></a><br><sup><strong>Event organizer:</strong> Git Merge 2022</sup></td>
+    <td width="50%"><a href="https://x.com/github/status/1409883156333879300"><img width="100%" src="images/copilot.gif"></a><br><sup><strong>Product launch:</strong> GitHub Copilot</sup>
+    <td width="50%"><a href="[https://github.blog/open-source/git/git-merge-2022-mission-report/](https://git-merge.com/)"><img width="100%" src="images/git-merge.png"></a><br><sup><strong>Event organizer:</strong> Git Merge 2022</sup></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="images/game-off.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>
