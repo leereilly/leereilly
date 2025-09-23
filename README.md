@@ -32,11 +32,11 @@
 My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
 
 <!--START_SECTION:feed-->
+* [What’s next for Git? 20 years in, the community is still pushing forward](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;whats-next-for-git-20-years-in-the-community-is-still-pushing-forward&#x2F;)
 * [For the Love of Code: a summer hackathon for joyful, ridiculous, and wildly creative projects](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;for-the-love-of-code-2025&#x2F;)
 * [Shine a spotlight on your open source project](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;shine-a-spotlight-on-your-open-source-project&#x2F;)
 * [Game Off 2024 winners](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;game-off-2024-winners&#x2F;)
 * [Game Off 2024 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;game-off-2024-theme-announcement&#x2F;)
-* [Celebrating the GitHub Awards 2024 recipients 🎉](https:&#x2F;&#x2F;github.blog&#x2F;news-insights&#x2F;company-news&#x2F;celebrating-the-github-awards-2024-recipients&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Recent publications:
