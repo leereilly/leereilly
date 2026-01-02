@@ -60,3 +60,5 @@ Well, not exactly "recent", but these are from my former life working in bioinfo
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+![My GitHub Game](game.gif)
