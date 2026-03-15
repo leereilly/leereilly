@@ -1,3 +1,5 @@
+<img src="contribution-graph.svg" width="100%">
+
 <p>👋🏻 I'm Lee - a <strike>software engineer</strike> manager and <em>writer</em> of programs on GitHub's Developer Relations team. I work on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
 
 #### Favorite ships:
