@@ -1,6 +1,21 @@
 <img src="contribution-graph.svg" width="100%">
 
-<p>👋🏻 I'm Lee - a <strike>software engineer</strike> manager and <em>writer</em> of programs on GitHub's Developer Relations team. I work on all sorts of fun stuff like ███ ██ and ██ ██ ███████.</p>
+# 👋🏻 I'm Lee
+
+I’m a Senior Program Manager at GitHub on the Developer Relations team, working at the intersection of AI, open source, and developer experience.
+
+I design and run programs, organize events, and build initiatives that help developers learn, create, and connect—from hackathons and game jams to experimental AI-driven workflows.
+
+My work blends structure and creativity: part program builder, part community architect, part creative technologist.
+
+I’m especially interested in:
+
+- AI-assisted development & creative tooling
+- Game development as a medium for learning and experimentation
+- Open source ecosystems and community growth
+- Designing meaningful developer experiences (DX)
+
+I like shipping things, experimenting in public, and helping others build.
 
 #### Favorite ships:
 
