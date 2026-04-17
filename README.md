@@ -1,23 +1,16 @@
 <img src="contribution-graph.svg" width="100%">
 
-# 👋🏻 I'm Lee
+## 👋🏻 Hey, I’m Lee
 
-I’m a Senior Program Manager at GitHub on the Developer Relations team, working at the intersection of AI, open source, and developer experience.
+Program Manager, Engineer, Developer Advocate, marketer, and experimenter working at the edge of AI-assisted software development at GitHub.
 
-I design and run programs, organize events, and build initiatives that help developers learn, create, and connect—from hackathons and game jams to experimental AI-driven workflows.
+I’ve been at GitHub since 2011, wearing many hats (and still collecting more). I work at the intersection of engineering, product, developer relations, and community... building tools and bringing developers together through programs, events, and experiments.
 
-My work blends structure and creativity: part program builder, part community architect, part creative technologist.
+Currently exploring what software development looks like in the age of AI - shipping projects, organizing events like Git Merge, GitHub Universe, Game Off, and helping create the spaces where developers thrive. Focused on  ███ ██ and ██ ██ ███████ rn.
 
-I’m especially interested in:
+Honestly, it’s kind of a dream job.
 
-- AI-assisted development & creative tooling
-- Game development as a medium for learning and experimentation
-- Open source ecosystems and community growth
-- Designing meaningful developer experiences (DX)
-
-I like shipping things, experimenting in public, and helping others build.
-
-#### Favorite ships:
+## Top 10 ships
 
 <table>
   <tr>
@@ -42,11 +35,50 @@ I like shipping things, experimenting in public, and helping others build.
   </tr>
 </table>
 
-#
+## Featured personal open source projects
 
-#### Recent GitHub Blog posts:
+### iOS Apps
 
-My job has literally nothing to do with video games or game development. That said, there's a good chance the list of blog posts below will have something to with games. Consider it a hobby!
+- **[GitHub Status Monitor](https://github.com/leereilly/github-status-ios)** – a native iOS app for monitoring and alerting on GitHub infrastructure in real time 🟢 🟡 🔴
+
+### macOS apps
+
+- **[GitHub Status Bar]()** – View GitHub activity directly from the macOS menu bar.
+
+### GitHub CLI extensions
+
+- **[GitHub Changelog](https://github.com/leereilly/gh-changelog)** - View the latest GitHub Changelog entries directly in your terminal.
+- **[GitHub Dungeons](https://github.com/leereilly/gh-dungeons)** – A GitHub-themed dungeon crawler built during a game jam.
+- **[GitHub Yule Log](https://github.com/leereilly/gh-yule-log)** – A Yule log extension for GitHub CLI. ̶Y̶u̶l̶e̶ You'll love it! 🪵 🔥
+
+### Chrome extensions
+
+- **[GitHub Issues Focus]()** – Stay focused on the issues that matter most.
+
+### CLI apps
+
+- **[Graphsay](https://github.com/leereilly/graphsay)** - Like `cowsay`, but for generating animated messages in GitHub contribution graphs to export as SVG, GIF, WebP, or MP4.
+
+### Windows apps
+
+- **[MTGA Fullscreen Helper](https://github.com/leereilly/MTGAFullscreenHelper)** – A Windows tray application that automatically keeps Magic: The Gathering Arena in fullscreen mode on ultrawide displays
+
+### Web apps
+
+- **[Dev Tartan](https://github.com/leereilly/dev-tartan)** - Generates a unique, deterministic tartan pattern from any GitHub username. 
+
+### Silly hackathon entries
+
+- **[GitHub Firehose](https://github.com/leereilly/gh-firehose)** – A terminal-based visualization of real-time GitHub push events displayed on a rotating ASCII globe.
+
+### Silly ame jam entries
+
+- **[GitHub Pong 3D](https://github.com/leereilly/3dpingpong)** - A 3D pong game themed after the GitHub contribution graph, with webcam eyebrow-tracking controls. Built for a "Fork Off" challange.
+- **[GOTO Town](https://github.com/leereilly/goto-town)** - A ridiculous web game controlled with your eyes, brows, and bawls built for Jerbob's Silly Jam 2026.
+- **[PIXEL DUEL](https://github.com/leereilly/PIXEL-DUEL)** - A dueling pixel game built for Ludum Dare 38.
+- **[SN@KELIKE](https://github.com/leereilly/snakelike)** - A Snake x Roguelike mashup built for 7DRL 2026.
+
+## Recent GitHub Blog posts:
 
 <!--START_SECTION:feed-->
 * [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;light-waves-rising-tides-and-drifting-ships-game-off-2025-winners&#x2F;)
@@ -56,7 +88,7 @@ My job has literally nothing to do with video games or game development. That sa
 * [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;git&#x2F;20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights&#x2F;)
 <!--END_SECTION:feed-->
 
-#### Recent publications:
+## Recent publications:
 
 Well, not exactly "recent", but these are from my former life working in bioinformatics.
 
@@ -66,16 +98,3 @@ Well, not exactly "recent", but these are from my former life working in bioinfo
 
 <sup>* try saying <em>that</em> ten times fast!</sup>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
-![My GitHub Game](game.gif)
