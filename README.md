@@ -81,11 +81,11 @@ Honestly, it’s kind of a dream job.
 ## Recent GitHub Blog posts:
 
 <!--START_SECTION:feed-->
+* [Register now for OpenClaw: After Hours @ GitHub](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;register-now-for-openclaw-after-hours-github&#x2F;)
 * [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;light-waves-rising-tides-and-drifting-ships-game-off-2025-winners&#x2F;)
 * [This year’s most influential open source projects](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;maintainers&#x2F;this-years-most-influential-open-source-projects&#x2F;)
 * [GitHub Game Off 2025 theme announcement](https:&#x2F;&#x2F;github.blog&#x2F;company&#x2F;github-game-off-2025-theme-announcement&#x2F;)
 * [From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge&#x2F;)
-* [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;git&#x2F;20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Recent publications:
