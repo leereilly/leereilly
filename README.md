@@ -1,3 +1,15 @@
+I went to [Microsoft Build](https://build.microsoft.com/) and all I got was this lousy GitHub Contribution Graph GIF:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/intro-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/intro-light.gif">
+  <img src="images/intro-light.gif" alt="Build-themed GitHub contribution graph GIF with BUILD 2026 intro">
+</picture>
+
+<div align="right"><sub>Get yours at <a href="https://github.com/leereilly/buildlike">https://github.com/leereilly/buildlike</a></sub></div>
+
+<br>
+
 <img src="contribution-graph.svg" width="100%">
 
 ## 👋🏻 Hey, I’m Lee
