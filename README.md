@@ -1,15 +1,3 @@
-I went to [Microsoft Build](https://build.microsoft.com/) and all I got was this lousy GitHub Contribution Graph GIF:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/intro-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="images/intro-light.gif">
-  <img src="images/intro-light.gif" alt="Build-themed GitHub contribution graph GIF with BUILD 2026 intro">
-</picture>
-
-<div align="right"><sub>Get yours at <a href="https://github.com/leereilly/buildlike">https://github.com/leereilly/gh-commit-crawl</a></sub></div>
-
-<br>
-
 <img src="contribution-graph.svg" width="100%">
 
 ## 👋🏻 Hey, I’m Lee
@@ -65,7 +53,7 @@ Honestly, it’s kind of a dream job.
 
 ### Chrome extensions
 
-- **[GitHub Issues Focus]()** – Stay focused on the issues that matter most.
+- **[GitHub Issues Focus](https://github.com/leereilly/github-issue-focus)** – Stay focused on the issues that matter most.
 
 ### CLI apps
 
