@@ -19,7 +19,7 @@ Honestly, it’s kind of a dream job.
   </tr>
   <tr>
     <td width="50%"><a href="https://x.com/github/status/1409883156333879300"><img width="100%" src="images/copilot.gif"></a><br><sup><strong>Product launch:</strong> GitHub Copilot</sup>
-    <td width="50%"><a href="[https://github.blog/open-source/git/git-merge-2022-mission-report/](https://git-merge.com/)"><img width="100%" src="images/git-merge.png"></a><br><sup><strong>Event organizer:</strong> Git Merge 2022</sup></td>
+    <td width="50%"><a href="https://git-merge.com/"><img width="100%" src="images/git-merge.png"></a><br><sup><strong>Event organizer:</strong> Git Merge 2022</sup></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="images/game-off.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>
@@ -39,11 +39,11 @@ Honestly, it’s kind of a dream job.
 
 ### iOS Apps
 
-- **[GitHub Status Monitor](https://github.com/leereilly/github-status-ios)** – a native iOS app for monitoring and alerting on GitHub infrastructure in real time 🟢 🟡 🔴
+- **[GitHub Status Monitor](https://github.com/leereilly/github-status-monitor-ios)** – a native iOS app for monitoring and alerting on GitHub infrastructure in real time 🟢 🟡 🔴
 
 ### macOS apps
 
-- **[GitHub Status Bar]()** – View GitHub activity directly from the macOS menu bar.
+- **[GitHub Status Bar](https://github.com/leereilly/github-status-bar)** – View GitHub activity directly from the macOS menu bar.
 
 ### GitHub CLI extensions
 
