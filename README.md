@@ -81,11 +81,11 @@ Honestly, it’s kind of a dream job.
 ## Recent GitHub Blog posts:
 
 <!--START_SECTION:feed-->
+* [Game Off 2026: The theme is SHIFT](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;game-off-2026-the-theme-is-shift&#x2F;)
 * [Dungeons &amp; Desktops: 10 roguelikes that never die (because their communities won’t let them)](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them&#x2F;)
 * [Dungeons &amp; Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI](https:&#x2F;&#x2F;github.blog&#x2F;ai-and-ml&#x2F;github-copilot&#x2F;dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli&#x2F;)
 * [Register now for OpenClaw: After Hours @ GitHub](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;register-now-for-openclaw-after-hours-github&#x2F;)
 * [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;gaming&#x2F;light-waves-rising-tides-and-drifting-ships-game-off-2025-winners&#x2F;)
-* [This year’s most influential open source projects](https:&#x2F;&#x2F;github.blog&#x2F;open-source&#x2F;maintainers&#x2F;this-years-most-influential-open-source-projects&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Recent publications:
